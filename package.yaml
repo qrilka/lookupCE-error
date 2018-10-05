@@ -1,0 +1,10 @@
+name: lookupCE-error
+dependencies:
+  - base
+  - persistent
+  - persistent-template
+library:
+  other-modules:
+    - Types
+  exposed-modules:
+    - Storage
